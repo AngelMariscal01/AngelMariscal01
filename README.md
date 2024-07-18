@@ -54,6 +54,6 @@ Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales en el In
 
 ### 🌐 Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/angel-mariscal-b5235925a)
+- [LinkedIn](https://www.linkedin.com/in/angel-david-mariscal-soto-b5235925a/)
 - [GitHub](https://github.com/AngelMariscal01)
 - [Correo Electrónico](mailto:angel.mariscal.soto@gmail.com)
