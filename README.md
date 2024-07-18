@@ -5,7 +5,7 @@
 
 ![Perfil](https://github.com/AngelMariscal01/profile.png)
 
-Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Morelia, actualmente en mi séptimo semestre. Tengo experiencia en el desarrollo de aplicaciones de escritorio y proyectos de ciencia de datos, y he completado un bootcamp en Data Science con un enfoque en ingeniería de datos. Me considero proactivo, autodidacta y responsable, siempre en busca de nuevos aprendizajes y mejoras continuas. 
+Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Estudios Superiores de Zamora, actualmente en mi séptimo semestre. Tengo experiencia en el desarrollo de aplicaciones de escritorio y proyectos de ciencia de datos, y he completado un bootcamp en Data Science con un enfoque en ingeniería de datos. Me considero proactivo, autodidacta y responsable, siempre en busca de nuevos aprendizajes y mejoras continuas. 
 
 ### 🎓 Educación
 
